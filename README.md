@@ -1,0 +1,2 @@
+# gitucenje
+Učimo GIT
